@@ -30,3 +30,11 @@ h3{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 
 h3{color: rgb(0, 0, 90);}
 
+nav {
+  position: sticky;
+  top: 0;
+  background-color: #F2F0EF; 
+  padding: 10px;
+  border-bottom: 1px solid #ddd; 
+  z-index: 100; 
+}
