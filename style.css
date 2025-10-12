@@ -8,11 +8,9 @@ header{
 
 section{
   background: #ccc;
-  display: flex;
 }
 
 article{
-  background: #999;
   padding: 20px;
   margin: 20px;
 }
