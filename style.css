@@ -57,4 +57,10 @@ tbody{
   max-width: 400px;
   border-radius: 4px;}
 
+thead{
+  padding: 5px;
+  background-color: #ffffff;
+  max-width: 400px;
+  border-radius: 4px;}
+
 h2{color: darkblue;}
