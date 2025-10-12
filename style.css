@@ -37,25 +37,23 @@ nav{
 }
 
 .image-container {
-  padding: 10px;
-  background-color: #f9f9f9;
+  padding: 5px;
+  background-color: #ffffff;
   max-width: 400px;
-  border-top: 1px solid #ccc;
-  border-right: 2px solid #888;
-  border-bottom: 2px solid #888;
-  border-left: 1px solid #ccc;
-  border-radius: 8px;
+  border-top: 1px solid #ffffff;
+  border-right: 2px solid #454545;
+  border-bottom: 2px solid #454545;
+  border-left: 1px solid #ffffff;
+  border-radius: 4px;
 }
 
-.image-container img {
+.image-container img{
   max-width: 100%;
-  display: block;
-}
+  display: block;}
 
-.image-container .caption {
+.image-container .caption{
   text-align: center;
   font-size: 1em;
   color: #000000;
-  margin-top: 2px;
-}
+  margin-top: 5px;}
 
