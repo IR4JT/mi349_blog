@@ -55,9 +55,8 @@ nav{
 
 .image-container .caption {
   text-align: center;
-  font-style: italic;
-  font-size: 0.9em;
-  color: #555;
-  margin-top: 8px;
-  margin-bottom: 0;
+  font-size: 1em;
+  color: #000000;
+  margin-top: 2px;
 }
+
