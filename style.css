@@ -51,3 +51,8 @@ nav{
   color: #000000;
   margin-top: 5px;}
 
+tbody{
+  padding: 5px;
+  background-color: #ffffff;
+  max-width: 400px;
+  border-radius: 4px;}
