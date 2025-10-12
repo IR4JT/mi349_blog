@@ -6,8 +6,10 @@ header{
   padding: 30;
 }
 
-h1{font-size: 3em;
-margin: 0;}
+h1{
+  font-size: 3em;
+  margin: 0;
+}
 
 section{
   background: #ccc;
