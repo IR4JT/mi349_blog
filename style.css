@@ -1,6 +1,11 @@
 body{background-color: #F2F0EF;}
 
+header{
+  background-color: black;
+}
+
 article{
   padding: 20px;
   margin: 20px;
 }
+
