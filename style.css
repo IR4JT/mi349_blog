@@ -88,4 +88,8 @@ html{box-sizing: border-box;
 font: size 100%;
 scroll-behavior: smooth;}
 
-
+nav li {
+  width: 100%;
+  text-align: center; 
+  border-bottom: 1px solid rgb(255, 0, 0);
+}
