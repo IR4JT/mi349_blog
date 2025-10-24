@@ -81,3 +81,9 @@ h2{color: darkblue;}
   text-decoration: underline;
   color: darkblue;
 }
+
+/* my responsive design rules */
+
+html{box-sizing: border-box; 
+font: size 100%;
+scroll-behavior: smooth;}
