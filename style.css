@@ -84,7 +84,7 @@ h2{color: darkblue;}
 
 /* my responsive design rules */
 
- @media screen and (max-width: 616px) {
+ @media screen and (max-width: 992px) {
   header {
     background: #ED254E;
     display: block;
@@ -127,5 +127,4 @@ th, td {
 
 article {
   padding: 15px; 
-  margin: 0 5px 15px 5px;
-}
+  margin: 0 5px 15px 5px;}
