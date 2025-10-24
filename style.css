@@ -1,9 +1,19 @@
 body{background-color: #F2F0EF;}
 
-header{
-  background-color: rgb(111, 111, 111);
-  color: #F2F0EF;
-  padding: 30;
+/* header, main {
+    max-width: 1000px; 
+    background-color: rgb(111, 111, 111);
+    margin: 0 auto;
+    color: #F2F0EF;
+    padding: 15px;
+} */
+
+header {
+  background: #011936;
+  color: #f3f3f3;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
 }
 
 h1{
