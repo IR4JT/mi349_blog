@@ -84,7 +84,7 @@ h2{color: darkblue;}
 
 /* my responsive design rules */
 
- @media screen and (max-width: 1440px) {
+ @media screen and (max-width: 1728px) {
   header {
     background: #ED254E;
     display: block;
