@@ -1,13 +1,5 @@
 body{background-color: #F2F0EF;}
 
-/* header, main {
-    max-width: 1000px; 
-    background-color: rgb(111, 111, 111);
-    margin: 0 auto;
-    color: #F2F0EF;
-    padding: 15px;
-} */
-
 header {
   background: #011936;
   color: #f3f3f3;
@@ -100,45 +92,46 @@ h2{color: darkblue;}
     display: block;
     padding: 0;
   }
-}
 
-nav ul {
-  list-style: none; 
-  display: flex;
-  background-color: #18453B; 
-  margin-top: 5px;
-}
 
-nav a {
-  color: white;
-  padding: 10px 20px;
-  text-decoration: none;
-  display: block;
-  border: 1px solid #008208;
-  border-radius: 8px; 
-  margin: 8px; 
-}
+  nav ul {
+    list-style: none; 
+    display: flex;
+    background-color: #18453B; 
+    margin-top: 5px;
+  }
 
-nav a:hover {
-    background-color: #0b9a6b;
-}
+  nav a {
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+    border: 1px solid #008208;
+    border-radius: 8px; 
+    margin: 8px; 
+  }
 
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 15px;
-  font-size: 1em;
-}
+  nav a:hover {
+      background-color: #0b9a6b;
+  }
 
-th, td {
-  padding: 10px;
-  text-align: center;
-  border-bottom: 1px solid #000000;
-}
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    font-size: 1em;
+  }
 
-article {
-  padding: 15px; 
-  margin: 0 5px 15px 5px;}
+  th, td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #000000;
+  }
+
+  article {
+    padding: 15px; 
+    margin: 0 5px 15px 5px;}
+}
 
 @media screen and (max-width: 768px) {
   header {
