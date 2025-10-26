@@ -137,8 +137,7 @@ h2{color: darkblue;}
   }
 
   article {
-    padding: 10px; 
-}
+    padding: 10px;}
  }
 
 @media screen and (max-width: 514px) {
@@ -154,4 +153,12 @@ h2{color: darkblue;}
   .Favorite_Hobbies{list-style-type: none; 
     padding: 0;
     margin: 0;}
+
+  form {
+  padding: 10px;
+  background: #ffffff;      
+  border: 1px;
+  box-sizing: border-box;
+  }
 }
+
