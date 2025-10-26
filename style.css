@@ -96,6 +96,12 @@ h2{color: darkblue;}
     padding: 0;
   }
 
+  form {
+  padding: 5px;
+  background: #ffffff;      
+  border: 1px;
+  }
+
   body { margin: 0; padding: 0; }
 
   nav { margin: 0; padding: 0; }
