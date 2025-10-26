@@ -131,6 +131,7 @@ h2{color: darkblue;}
   article {
     padding: 10px; 
 }
+ }
 
 @media screen and (max-width: 514px) {
   header {
@@ -142,5 +143,7 @@ h2{color: darkblue;}
   h1 { font-size: 2em;
   color: #18453B;}
 
-  .Favorite_Hobbies{list-style-type: none; padding: 0; margin: 0;}
+  .Favorite_Hobbies{list-style-type: none; 
+    padding: 0;
+    margin: 0;}
 }
